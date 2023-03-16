@@ -5,17 +5,17 @@
         "includes": [
             {
                 "name": "templates",
-                "path": "/sitecore/templates/Project/PLAY",
+                "path": "/sitecore/templates/Project",
                 "allowedPushOperations": "CreateUpdateAndDelete"
             },
             {
                 "name": "contentRoot",
-                "path": "/sitecore/content/PLAY",
+                "path": "/sitecore/content",
                 "allowedPushOperations": "CreateUpdateAndDelete"
             },
             {
                 "name": "media",
-                "path": "/sitecore/Media Library/Project/PLAY",
+                "path": "/sitecore/Media Library/Project",
                 "allowedPushOperations": "CreateUpdateAndDelete"
             }
         ]
