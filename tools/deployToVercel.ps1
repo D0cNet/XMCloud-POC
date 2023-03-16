@@ -1,5 +1,5 @@
 # Set up variables with your Vercel project and Sitecore XM Cloud environment details
-$vercelProjectName = "sxastarter"
+$vercelProjectName = "POC Project"
 $vercelToken = "unC9F6D5cDAI0dw1iwaU5tNY"
 
 # Set up the path to the Next.js project subfolder
@@ -15,7 +15,7 @@ if (-not (Get-Command vercel -ErrorAction SilentlyContinue)) {
 cd $nextjsSubfolderPath
 
 # Log in to your Vercel account
-vercel login
+vercel login 
 
 # Set the Vercel project context to your project
 vercel switch $vercelProjectName
