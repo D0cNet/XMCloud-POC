@@ -1,0 +1,31 @@
+﻿---
+ID: "836195fa-9d59-47d0-bb03-6306267f0c85"
+Parent: "6c1df120-3c97-48d0-8fb8-39a73c519568"
+Template: "26ec1d18-11b2-4dd9-8326-f6115f4fd7eb"
+Path: /sitecore/content/Martin/Martin/Presentation/Available Renderings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230413T194722Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\79hNWxfoQm
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\79hNWxfoQm
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ff1f502-71c8-4b7c-8737-e27a606f846d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\79hNWxfoQm
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230413T194722Z

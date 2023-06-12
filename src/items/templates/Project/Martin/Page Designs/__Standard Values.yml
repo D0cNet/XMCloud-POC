@@ -1,0 +1,37 @@
+﻿---
+ID: "3c2220d8-cec7-4a20-8429-6c7a109a268c"
+Parent: "7cc7d39b-f962-4129-8a67-b9dabb22d33d"
+Template: "7cc7d39b-f962-4129-8a67-b9dabb22d33d"
+Path: /sitecore/templates/Project/Martin/Page Designs/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {74EE4E7B-9935-4E71-9AC9-2EEBC2D75645}
+    {1105B8F8-1E00-426B-BF1F-C840742D827B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230413T194712Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\79hNWxfoQm
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\79hNWxfoQm
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e188a88d-de45-4e50-90ca-a78db790faf7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\79hNWxfoQm
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230413T194714Z
