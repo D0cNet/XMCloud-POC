@@ -2,4 +2,4 @@
 !.gitignore
 !GraphQLIntrospectionResult.json
 !config.js
-!next-config-plugins.js
+!*-plugins.ts
