@@ -3,3 +3,4 @@
 !GraphQLIntrospectionResult.json
 !config.js
 !*-plugins.ts
+!componentFactory.ts
