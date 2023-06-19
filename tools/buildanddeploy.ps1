@@ -57,7 +57,7 @@ Write-Host "Environment last updated by: $($environment.lastUpdatedBy)"
 Write-Host "Environment provisioning status: $($environment.provisioningStatus)"
 
 Write-Host "Creating and uploading a deployment package..." -NoNewline
-$deployment = dotnet sitecore cloud deployment create --environment-id $environmentId --working-dir . --upload --no-watch --no-start --json | ConvertFrom-Json
+$deployment = dotnet sitecore cloud deployment create --environment-id $environmentId  --no-watch --no-start --json | ConvertFrom-Json
 if ($deployment.Status -eq "Operation Failed") {
     Write-Host ""
     Write-Error "Creation of deployment failed: $($deployment.Message)"
