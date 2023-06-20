@@ -13,7 +13,7 @@ const nextConfig = {
   assetPrefix: publicUrl,
 
   // Allow specifying a distinct distDir when concurrently running app in a container
-  distDir: process.env.NEXTJS_DIST_DIR || '.next',
+  //distDir: process.env.NEXTJS_DIST_DIR || '.next',
 
   // Make the same PUBLIC_URL available as an environment variable on the client bundle
   env: {
